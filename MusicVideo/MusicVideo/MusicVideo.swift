@@ -34,7 +34,7 @@ class Videos {
     
     var vImageUrl: String {
         return _vImageUrl
-    }
+    }   
     
     var vVideoUrl: String {
         return _vVideoUrl
